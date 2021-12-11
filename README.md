@@ -1,1 +1,1 @@
-# nodejs-frontend-graphql
+# frontend-nodejs-graphql
